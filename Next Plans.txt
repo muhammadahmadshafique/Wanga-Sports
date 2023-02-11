@@ -1,0 +1,3 @@
+Fix the nav bar with that of machine so it doesnt stick on page.
+Put pages into sub folders.
+Call all API/s from one class.
